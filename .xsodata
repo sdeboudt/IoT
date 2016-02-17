@@ -1,3 +1,3 @@
 service {
-	"<schema>"."<T_IOT_TABLE" as "Geolocation" key generate local "GEN_ID";
+	"<SCHEMA>"."<T_IOT_TABLE>" as "Geolocation" key generate local "GEN_ID";
 }
