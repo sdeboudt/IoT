@@ -1,1 +1,1 @@
-Internet of Things Stuff here
+Internet of Things Stuff related to SAP Cloud Platform here
